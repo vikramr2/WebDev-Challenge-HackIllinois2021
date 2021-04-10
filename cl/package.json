@@ -1,0 +1,23 @@
+{
+  "name": "webdev-challenge-hackillinois2021",
+  "version": "1.0.0",
+  "description": "Vik and Joung's 2021 HackIllinois WebDev Entry to showcase our radical schmadical project!",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramr2/WebDev-Challenge-HackIllinois2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramr2/WebDev-Challenge-HackIllinois2021/issues"
+  },
+  "homepage": "https://github.com/vikramr2/WebDev-Challenge-HackIllinois2021#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
